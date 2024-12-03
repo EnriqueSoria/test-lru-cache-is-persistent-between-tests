@@ -1,0 +1,1 @@
+# Test de ejemplo para el blog ["TIL: La caché de `functools.lru_cache` se mantiene entre tests"](https://blog.enriquesoria.com/til-functools-lru-cache-cached-between-tests/)
